@@ -1,0 +1,2 @@
+# clothingStore-demo
+GitHub Pages
